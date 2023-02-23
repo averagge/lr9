@@ -1,0 +1,11 @@
+C:\Users\Наталия\Downloads\GitHub\lr9\lr9\lr9\bin\Debug\lr9.exe.config
+C:\Users\Наталия\Downloads\GitHub\lr9\lr9\lr9\bin\Debug\lr9.exe
+C:\Users\Наталия\Downloads\GitHub\lr9\lr9\lr9\bin\Debug\lr9.pdb
+C:\Users\Наталия\Downloads\GitHub\lr9\lr9\lr9\obj\Debug\lr9.csproj.AssemblyReference.cache
+C:\Users\Наталия\Downloads\GitHub\lr9\lr9\lr9\obj\Debug\lr9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Наталия\Downloads\GitHub\lr9\lr9\lr9\obj\Debug\lr9.Form1.resources
+C:\Users\Наталия\Downloads\GitHub\lr9\lr9\lr9\obj\Debug\lr9.Properties.Resources.resources
+C:\Users\Наталия\Downloads\GitHub\lr9\lr9\lr9\obj\Debug\lr9.csproj.GenerateResource.cache
+C:\Users\Наталия\Downloads\GitHub\lr9\lr9\lr9\obj\Debug\lr9.csproj.CoreCompileInputs.cache
+C:\Users\Наталия\Downloads\GitHub\lr9\lr9\lr9\obj\Debug\lr9.exe
+C:\Users\Наталия\Downloads\GitHub\lr9\lr9\lr9\obj\Debug\lr9.pdb
