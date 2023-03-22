@@ -11,8 +11,9 @@ namespace LR8lib
 {
     public class Rectangle: Figure
     {
-        public Rectangle(int x, int y, int w, int h)
+        public Rectangle(int h, int w, int y, int x, string name)
         {
+            this.name = name;
             this.x = x;
             this.y = y;
             this.w = w;
@@ -20,6 +21,7 @@ namespace LR8lib
         }
         public Rectangle()
         {
+            this.name = "";
             this.x = 0;
             this.y = 0;
             this.w = 0;
@@ -31,7 +33,7 @@ namespace LR8lib
             g.DrawRectangle(Init.pen, this.x, this.y, this.w, this.h);
             Init.pictureBox.Image = Init.bitmap;
         }
-        public override void MoveTo(int x, int y)
+        public override void MoveTo(int y, int x)
         {
 
             if (!((this.x + x < 0 && this.y + y < 0) || (this.y + y < 0) || 

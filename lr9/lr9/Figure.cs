@@ -11,7 +11,7 @@ namespace LR8lib
 {
     abstract public class Figure
     {
-
+        public string name;
         public int x;
         public int y;
         public int w;

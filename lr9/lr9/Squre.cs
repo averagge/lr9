@@ -9,7 +9,7 @@ namespace LR8lib
 
         public class Square : Rectangle
         {
-            public Square(int x, int y, int w) : base(x, y, w, w)
+            public Square(int w, int y, int x, string name) : base(w, w, y, x, name)
             { 
             }
         }
